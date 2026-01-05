@@ -1,0 +1,51 @@
+[
+  {
+    "id": "red-fox",
+    "name": "Red Fox",
+    "scientificName": "Vulpes vulpes",
+    "summary": "A clever omnivore found across the UK, often active at dusk and dawn.",
+    "habitat": "Woodland edges, farmland, urban parks",
+    "diet": "Small mammals, insects, fruit",
+    "zone": "Woodland Trail",
+    "lat": 53.483,
+    "lng": -2.237,
+    "imageUrl": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?auto=format&fit=crop&w=1200&q=60"
+  },
+  {
+    "id": "barn-owl",
+    "name": "Barn Owl",
+    "scientificName": "Tyto alba",
+    "summary": "A pale owl with silent flight, hunting mainly at night over open fields.",
+    "habitat": "Farmland, grassland, barns",
+    "diet": "Voles, mice, small birds",
+    "zone": "Meadow Hide",
+    "lat": 53.482,
+    "lng": -2.236,
+    "imageUrl": "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?auto=format&fit=crop&w=1200&q=60"
+  },
+  {
+    "id": "hedgehog",
+    "name": "European Hedgehog",
+    "scientificName": "Erinaceus europaeus",
+    "summary": "A nocturnal insect-eater that curls into a spiky ball for protection.",
+    "habitat": "Gardens, hedgerows, woodland",
+    "diet": "Beetles, worms, slugs",
+    "zone": "Night Garden",
+    "lat": 53.4815,
+    "lng": -2.238,
+    "imageUrl": "https://images.unsplash.com/photo-1543946207-39bd91e70ca7?auto=format&fit=crop&w=1200&q=60"
+  },
+  {
+    "id": "otter",
+    "name": "Eurasian Otter",
+    "scientificName": "Lutra lutra",
+    "summary": "A playful swimmer that needs clean rivers and healthy fish populations.",
+    "habitat": "Rivers, streams, wetlands",
+    "diet": "Fish, amphibians, crustaceans",
+    "zone": "Riverbank",
+    "lat": 53.4825,
+    "lng": -2.2385,
+    "imageUrl": "https://images.unsplash.com/photo-1552410260-0fd9b577afa6?auto=format&fit=crop&w=1200&q=60"
+  }
+]
+
