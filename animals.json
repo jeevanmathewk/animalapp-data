@@ -9,7 +9,7 @@
     "zone": "Woodland Trail",
     "lat": 53.483,
     "lng": -2.237,
-    "imageUrl": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?auto=format&fit=crop&w=1200&q=60"
+    "imageUrl": "https://raw.githubusercontent.com/jeevanmathewk/animalapp-data/main/red-fox.jpg"
   },
   {
     "id": "barn-owl",
@@ -21,7 +21,7 @@
     "zone": "Meadow Hide",
     "lat": 53.482,
     "lng": -2.236,
-    "imageUrl": "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?auto=format&fit=crop&w=1200&q=60"
+    "imageUrl": "https://raw.githubusercontent.com/jeevanmathewk/animalapp-data/main/barn-owl.jpg"
   },
   {
     "id": "hedgehog",
@@ -33,7 +33,7 @@
     "zone": "Night Garden",
     "lat": 53.4815,
     "lng": -2.238,
-    "imageUrl": "https://images.unsplash.com/photo-1543946207-39bd91e70ca7?auto=format&fit=crop&w=1200&q=60"
+    "imageUrl": "https://raw.githubusercontent.com/jeevanmathewk/animalapp-data/main/european-hedgehog.jpg"
   },
   {
     "id": "otter",
@@ -45,7 +45,30 @@
     "zone": "Riverbank",
     "lat": 53.4825,
     "lng": -2.2385,
-    "imageUrl": "https://images.unsplash.com/photo-1552410260-0fd9b577afa6?auto=format&fit=crop&w=1200&q=60"
+    "imageUrl": "https://raw.githubusercontent.com/jeevanmathewk/animalapp-data/main/european-otter.jpg"
+  },
+  {
+    "id": "common-frog",
+    "name": "Common Frog",
+    "scientificName": "Rana temporaria",
+    "summary": "A widespread amphibian found near ponds and damp habitats.",
+    "habitat": "Ponds, wetlands, gardens",
+    "diet": "Insects, slugs, worms",
+    "zone": "Pond Edge",
+    "lat": 53.481,
+    "lng": -2.239,
+    "imageUrl": "https://raw.githubusercontent.com/jeevanmathewk/animalapp-data/main/common-frog.jpg"
+  },
+  {
+    "id": "roe-deer",
+    "name": "Roe Deer",
+    "scientificName": "Capreolus capreolus",
+    "summary": "A small, graceful deer commonly found in UK woodland and farmland.",
+    "habitat": "Woodlands, fields",
+    "diet": "Leaves, shoots, grasses",
+    "zone": "Forest Glade",
+    "lat": 53.484,
+    "lng": -2.235,
+    "imageUrl": "https://raw.githubusercontent.com/jeevanmathewk/animalapp-data/main/roe-deer.jpg"
   }
 ]
-
